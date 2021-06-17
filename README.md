@@ -1,4 +1,4 @@
-# ECNU_Compilers-Principles
+# ECNU_Final-Exam-Review
 ## 华东师范大学2020-2021第二学期软件学院部分课程期末复习
 课程包括：
 - 软件需求
